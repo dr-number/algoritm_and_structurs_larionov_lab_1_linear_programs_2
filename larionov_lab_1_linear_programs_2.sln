@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "larionov_lab_1_linear_programs_2", "larionov_lab_1_linear_programs_2\larionov_lab_1_linear_programs_2.csproj", "{19A38C0B-621F-4E78-B02D-77319DCA3937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A38C0B-621F-4E78-B02D-77319DCA3937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A38C0B-621F-4E78-B02D-77319DCA3937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A38C0B-621F-4E78-B02D-77319DCA3937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A38C0B-621F-4E78-B02D-77319DCA3937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840D8750-3AFD-47A8-991D-5292141E8610}
+	EndGlobalSection
+EndGlobal
